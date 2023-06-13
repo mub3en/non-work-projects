@@ -1,28 +1,40 @@
 # Form Design Project with Editing Function
 
-This project focuses on designing a form with an editing function. The form includes two tables: Course Information and Speaking Emphasis. Please note that the Speaking Emphasis table is not shown below and needs to be added.
+This project is implemented using React and React Bootstrap. It focuses on designing a form with an editing function. The form includes two tables: Writing Table and Speaking Table.
 
-You will be prompted to enter your name and the total number of credits only once. Once your name is entered, the title of both tables will be changed to include your name.
+## Components and Dependencies
 
-## Course Information
+- `React`: JavaScript library for building user interfaces.
+- `react-bootstrap`: React UI framework for styling.
+- `TableStructure`: Component for rendering table structures.
+- `FilterComponent`: Component for filtering data based on transfer credits.
+- `writing_data`: Data for the Writing Table.
+- `speaking_data`: Data for the Speaking Table.
+- `Banner`: Component for displaying a banner.
+- `BannerInput`: Component for inputting the user's name.
+- `TransferCreditInput`: Component for inputting transfer credits.
+- `App.css`: CSS file for styling.
 
-| Course Name | Course Code | Credits |
-|-------------|-------------|---------|
-| Math        | MATH101     | 4       |
-| English     | ENG201      | 3       |
-| Science     | SCI301      | 5       |
+## Functionality
 
-## Editing Function
+- The form allows the user to input their name and transfer credits.
+- The `handleSetUserName` function updates the `username` state with the entered name and disables the banner input field.
+- The `handleSetCredits` function updates the `transferCredits` state with the entered transfer credits.
+- The `FilterComponent` function filters the writing and speaking data based on the transfer credits entered.
+- The `BannerInput` component renders an input field for entering the user's name.
+- The `TransferCreditInput` component renders an input field for entering transfer credits.
+- The `TableStructure` component renders the tables with the filtered data and provides a save function (`handleSave`) for each table.
 
-The editing function allows you to edit the details of a specific course. The screen for displaying the editing function can be shown below the table of the course to be edited.
+## Rendering
 
-To edit a course, follow these steps:
+The `App` component renders the following elements:
 
-1. Locate the course in the table.
-2. Click on the "Edit" button or select the course row.
-3. The editing screen will be displayed below the table.
-4. Modify the desired fields (e.g., course name, course code, credits).
-5. Click on the "Save" button to save the changes.
-6. The updated details will be reflected in the table.
+- BannerInput (for entering the user's name)
+- TransferCreditInput (for entering transfer credits)
+- Writing Table (with the filtered writing data and save function)
+- Speaking Table (with the filtered speaking data and save function)
+
+Please note that this Markdown code provides an overview of the code's functionality and structure. For the actual implementation and execution, you would need to refer to the original JavaScript code and run it in a React development environment.
+
 
 Happy editing!
