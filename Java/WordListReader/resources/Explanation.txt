@@ -1,0 +1,57 @@
+Comparing these data structures,  can you explain the differences in these results?
+- The ArrayList uses an array for storing the data. ArrayList doesn't ensure there are no duplicates.
+- HashSet uses hashing mechanism for storing the elements into their respective buckets. HashSet ensures there are no duplicates.
+- TreeSet is implemented using a tree structure. The elements in a set are sorted.
+ 
+ 
+ 
+Why does ArrayList have so many more words than the others? 
+Because arrayList doesn't ensure there are no duplicates.
+ 
+
+
+What is the biggest difference between ArrayList and the other two Data Structures?
+- ArrayList is an ordered collection and maintains insertion order of elements while HashSet is an unordered collection and doesn't maintain any order.
+ 
+ 
+ 
+Why would you not use ArrayList for a large dictionary project?
+Lookup from a HashSet is constant time, O(1), provided that the hashCode implements hashing mechanism. Linear look-up from a list is linear time, O(n). 
+
+
+
+Which Big-O notation time costs of TreeSet versus HashSet are greater?
+HashSet has constant time complexity O(1) whereas TreeSet has time complexity O(log (n)).
+
+
+
+Why would you choose TreeSet over HashSet? Is the data the same between the two structures?
+HashSet doesn't guaranteed any order while TreeSet maintains objects in Sorted order. and No.
+
+
+
+Run your test several times.  Do the elapsed times vary significantly between test runs?
+There is a significance difference b/w ArrayList and Sets but there is not much difference b/w HashSet vs TreeSet 
+--------------First test-------------
+Elapsed time for ArrayList 651 milliseconds.  Number of words: 575343
+Elapsed time for HashSet 412 milliseconds.  Number of words: 17624
+Elapsed time for TreeSet 418 milliseconds.  Number of words: 17624
+
+--------------Second test------------
+Elapsed time for ArrayList 404 milliseconds.  Number of words: 575343
+Elapsed time for HashSet 333 milliseconds.  Number of words: 17624
+Elapsed time for TreeSet 369 milliseconds.  Number of words: 17624
+
+
+--------------Third test-------------
+Elapsed time for ArrayList 444 milliseconds.  Number of words: 575343
+Elapsed time for HashSet 349 milliseconds.  Number of words: 17624
+Elapsed time for TreeSet 365 milliseconds.  Number of words: 17624
+
+	
+  
+ 
+
+What does this tell you if anything about best practices for profiling and measuring the comparative efficiency of algorithms?   
+Complexity calculation doesn't really apply to bounded problems. Its goal is to understand how much slower the computation becomes when the problem size increases, becoming infinitely large. 
+

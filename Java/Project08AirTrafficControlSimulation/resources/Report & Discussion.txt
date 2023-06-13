@@ -1,0 +1,19 @@
+I ran the code several times and only a few times it will return an output. Poisson distribution makes it interesting as we are gathering a very small dataset out of an infinite or a very large data pool. 
+
+Using Random(System.currentTimeMillis()) with Poisson distribution provides a very low output given the execution time is longer for mili seconds than nano seconds. Instead if we use Random(System.nanoTime()) we get output more frequently with every execution.
+
+I have separated my outputs with behavior variation of the program.
+
+1 - Departure Queue Full
+	In this scenario departure queue is always full or no planes are ready to departure. When we look at the statistics, we see total number of departures are zero.
+
+2 - Arrival Queue Full
+	In this scenario arrival queue is always full or no planes are arriving. When we look at the statistics, we see total number of arrivals are zero.
+
+3 - Queues Empty
+	In this scenario arrival and departure queues are always empty. When we 				look at the statistics, we see total number of arrivals and departures are zero.
+
+4 - Queues Available
+	In this scenario we see a nice distribution of departure and arrivals flight. Statistics in this output are interesting to look at.
+
+

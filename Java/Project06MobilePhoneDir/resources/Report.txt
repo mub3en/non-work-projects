@@ -1,0 +1,16 @@
+Q - PhonebookData implements the Comparable interface.  Why?
+A - PhonebookData implementing comparable interface because we are ordering the objects of the user-defined class 'PhonebookData'.
+
+
+Q - What happens if the implements comparable tag and the @Overrides annotation in this class are removed? 
+A - We will get an error: "class PhonebookData cannot be cast to class java.lang.Comparable (PhonebookData is in unnamed module of loader 'app'; java.lang.Comparable is in module java.base of loader 'bootstrap')"
+
+This is because the add method of SortedSet Class provides sort implementation for only Primitive datatypes wrapped into Wrapper Class Objects.
+
+
+Q - Why is there a user-defined compare method in PhonebookData?  
+A - Since we are using TreeSet in our program and it store elements in sorted set. However it is compactor which defines the sorted order. In this case we are using 'Name' as to compare in search and sorting DDL search results by name.
+
+
+Q - Can we apply inequalities (<,>,<=,etc) to Java strings? 
+A - Because the relational operators >, >=, < and <= are only defined for primitive types. String is not a primitive type. It is a reference type. 

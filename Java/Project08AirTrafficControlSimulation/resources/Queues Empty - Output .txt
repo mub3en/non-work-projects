@@ -1,0 +1,22 @@
+Enter mean departure frequency (0.0 < df > 1.0): 
+0.19
+Enter mean arrival frequency   0.0 < af > 1.0): 
+0.32
+
+*********************************************************
+Automated Air Traffic Control Simulator Summary Statistics
+**********************************************************
+
+Time period Simulated: 24:00 hours
+Number of arrivals: 0
+Number of departures: 0
+Total number of flights operated: 0
+Average can't be calculated, since number of arrivals are zero. 
+Average can't be calculated, since number of departures are zero. 
+Arrivals remaining in the queue: 0
+Departures remaining in the queue: 0
+Number of diverted arrivals: 0
+Number of diverted departures: 0
+Percent time idle runaway: 100%
+Average arrival time in queue: 0 minutes
+Average departure time in queue: 0 minutes

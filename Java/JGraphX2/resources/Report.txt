@@ -1,0 +1,11 @@
+I have modeled Government branches with the Government at the root level. 
+
+Government is divided into three branches: Legislative, Executive, Judicial. 
+
+Each branch is further branched into sub categories. 
+
+Legislative branch has Congress which is further divided into 'Senate' and 'House of representatives'.
+
+Executive Branch has 'President' which is further divided into many sub branches but I only mentioned a few. 
+
+Judiciary branch contains Supreme Court and other federal courts.

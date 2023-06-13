@@ -1,0 +1,879 @@
+Enter mean departure frequency (0.0 < df > 1.0): 
+0.8
+Enter mean arrival frequency   0.0 < af > 1.0): 
+0.1
+Departure queue full. Flight Departure: UA6 departure delayed due air traffic control at: 0:10
+Flight Departure: UA1 departed at: 0:10
+Departure queue full. Flight Departure: UA8 departure delayed due air traffic control at: 0:14
+Departure queue full. Flight Departure: UA9 departure delayed due air traffic control at: 0:16
+Departure queue full. Flight Departure: UA10 departure delayed due air traffic control at: 0:18
+Departure queue full. Flight Departure: UA11 departure delayed due air traffic control at: 0:20
+Flight Departure: UA2 departed at: 0:20
+Departure queue full. Flight Departure: UA13 departure delayed due air traffic control at: 0:24
+Departure queue full. Flight Departure: UA14 departure delayed due air traffic control at: 0:26
+Departure queue full. Flight Departure: UA15 departure delayed due air traffic control at: 0:28
+Departure queue full. Flight Departure: UA16 departure delayed due air traffic control at: 0:30
+Flight Departure: UA3 departed at: 0:30
+Departure queue full. Flight Departure: UA18 departure delayed due air traffic control at: 0:34
+Departure queue full. Flight Departure: UA19 departure delayed due air traffic control at: 0:36
+Departure queue full. Flight Departure: UA20 departure delayed due air traffic control at: 0:38
+Departure queue full. Flight Departure: UA21 departure delayed due air traffic control at: 0:40
+Flight Departure: UA4 departed at: 0:40
+Departure queue full. Flight Departure: UA23 departure delayed due air traffic control at: 0:42
+Departure queue full. Flight Departure: UA24 departure delayed due air traffic control at: 0:44
+Departure queue full. Flight Departure: UA25 departure delayed due air traffic control at: 0:44
+Departure queue full. Flight Departure: UA26 departure delayed due air traffic control at: 0:46
+Departure queue full. Flight Departure: UA27 departure delayed due air traffic control at: 0:46
+Departure queue full. Flight Departure: UA28 departure delayed due air traffic control at: 0:48
+Departure queue full. Flight Departure: UA29 departure delayed due air traffic control at: 0:48
+Departure queue full. Flight Departure: UA30 departure delayed due air traffic control at: 0:50
+Departure queue full. Flight Departure: UA31 departure delayed due air traffic control at: 0:50
+Flight Departure: UA5 departed at: 0:50
+Departure queue full. Flight Departure: UA33 departure delayed due air traffic control at: 0:52
+Departure queue full. Flight Departure: UA34 departure delayed due air traffic control at: 0:54
+Departure queue full. Flight Departure: UA35 departure delayed due air traffic control at: 0:54
+Departure queue full. Flight Departure: UA36 departure delayed due air traffic control at: 0:56
+Departure queue full. Flight Departure: UA37 departure delayed due air traffic control at: 0:56
+Departure queue full. Flight Departure: UA38 departure delayed due air traffic control at: 0:58
+Departure queue full. Flight Departure: UA39 departure delayed due air traffic control at: 0:58
+Departure queue full. Flight Departure: UA40 departure delayed due air traffic control at: 1:00
+Departure queue full. Flight Departure: UA41 departure delayed due air traffic control at: 1:00
+Flight Departure: UA7 departed at: 1:00
+Departure queue full. Flight Departure: UA43 departure delayed due air traffic control at: 1:02
+Departure queue full. Flight Departure: UA44 departure delayed due air traffic control at: 1:04
+Departure queue full. Flight Departure: UA45 departure delayed due air traffic control at: 1:04
+Departure queue full. Flight Departure: UA46 departure delayed due air traffic control at: 1:06
+Departure queue full. Flight Departure: UA47 departure delayed due air traffic control at: 1:06
+Departure queue full. Flight Departure: UA48 departure delayed due air traffic control at: 1:06
+Departure queue full. Flight Departure: UA49 departure delayed due air traffic control at: 1:08
+Departure queue full. Flight Departure: UA50 departure delayed due air traffic control at: 1:08
+Departure queue full. Flight Departure: UA51 departure delayed due air traffic control at: 1:08
+Departure queue full. Flight Departure: UA52 departure delayed due air traffic control at: 1:10
+Departure queue full. Flight Departure: UA53 departure delayed due air traffic control at: 1:10
+Departure queue full. Flight Departure: UA54 departure delayed due air traffic control at: 1:10
+Flight Departure: UA12 departed at: 1:10
+Departure queue full. Flight Departure: UA56 departure delayed due air traffic control at: 1:12
+Departure queue full. Flight Departure: UA57 departure delayed due air traffic control at: 1:12
+Departure queue full. Flight Departure: UA58 departure delayed due air traffic control at: 1:14
+Departure queue full. Flight Departure: UA59 departure delayed due air traffic control at: 1:14
+Departure queue full. Flight Departure: UA60 departure delayed due air traffic control at: 1:14
+Departure queue full. Flight Departure: UA61 departure delayed due air traffic control at: 1:16
+Departure queue full. Flight Departure: UA62 departure delayed due air traffic control at: 1:16
+Departure queue full. Flight Departure: UA63 departure delayed due air traffic control at: 1:18
+Departure queue full. Flight Departure: UA64 departure delayed due air traffic control at: 1:18
+Departure queue full. Flight Departure: UA65 departure delayed due air traffic control at: 1:20
+Departure queue full. Flight Departure: UA66 departure delayed due air traffic control at: 1:20
+Flight Departure: UA17 departed at: 1:20
+Departure queue full. Flight Departure: UA68 departure delayed due air traffic control at: 1:22
+Departure queue full. Flight Departure: UA69 departure delayed due air traffic control at: 1:24
+Departure queue full. Flight Departure: UA70 departure delayed due air traffic control at: 1:24
+Departure queue full. Flight Departure: UA71 departure delayed due air traffic control at: 1:26
+Departure queue full. Flight Departure: UA72 departure delayed due air traffic control at: 1:26
+Departure queue full. Flight Departure: UA73 departure delayed due air traffic control at: 1:28
+Departure queue full. Flight Departure: UA74 departure delayed due air traffic control at: 1:30
+Flight Departure: UA22 departed at: 1:30
+Departure queue full. Flight Departure: UA76 departure delayed due air traffic control at: 1:34
+Departure queue full. Flight Departure: UA77 departure delayed due air traffic control at: 1:36
+Departure queue full. Flight Departure: UA78 departure delayed due air traffic control at: 1:38
+Departure queue full. Flight Departure: UA79 departure delayed due air traffic control at: 1:40
+Flight Departure: UA32 departed at: 1:40
+Departure queue full. Flight Departure: UA81 departure delayed due air traffic control at: 1:44
+Departure queue full. Flight Departure: UA82 departure delayed due air traffic control at: 1:46
+Departure queue full. Flight Departure: UA83 departure delayed due air traffic control at: 1:48
+Departure queue full. Flight Departure: UA84 departure delayed due air traffic control at: 1:50
+Flight Departure: UA42 departed at: 1:50
+Departure queue full. Flight Departure: UA86 departure delayed due air traffic control at: 1:54
+Departure queue full. Flight Departure: UA87 departure delayed due air traffic control at: 1:56
+Departure queue full. Flight Departure: UA88 departure delayed due air traffic control at: 1:58
+Departure queue full. Flight Departure: UA89 departure delayed due air traffic control at: 2:00
+Flight Departure: UA55 departed at: 2:00
+Departure queue full. Flight Departure: UA91 departure delayed due air traffic control at: 2:04
+Departure queue full. Flight Departure: UA92 departure delayed due air traffic control at: 2:06
+Departure queue full. Flight Departure: UA93 departure delayed due air traffic control at: 2:08
+Departure queue full. Flight Departure: UA94 departure delayed due air traffic control at: 2:10
+Flight Departure: UA67 departed at: 2:10
+Departure queue full. Flight Departure: UA96 departure delayed due air traffic control at: 2:14
+Departure queue full. Flight Departure: UA97 departure delayed due air traffic control at: 2:16
+Departure queue full. Flight Departure: UA98 departure delayed due air traffic control at: 2:18
+Departure queue full. Flight Departure: UA99 departure delayed due air traffic control at: 2:20
+Flight Departure: UA75 departed at: 2:20
+Departure queue full. Flight Departure: UA101 departure delayed due air traffic control at: 2:24
+Departure queue full. Flight Departure: UA102 departure delayed due air traffic control at: 2:26
+Departure queue full. Flight Departure: UA103 departure delayed due air traffic control at: 2:28
+Departure queue full. Flight Departure: UA104 departure delayed due air traffic control at: 2:30
+Flight Departure: UA80 departed at: 2:30
+Departure queue full. Flight Departure: UA106 departure delayed due air traffic control at: 2:34
+Departure queue full. Flight Departure: UA107 departure delayed due air traffic control at: 2:36
+Departure queue full. Flight Departure: UA108 departure delayed due air traffic control at: 2:38
+Departure queue full. Flight Departure: UA109 departure delayed due air traffic control at: 2:40
+Flight Departure: UA85 departed at: 2:40
+Departure queue full. Flight Departure: UA111 departure delayed due air traffic control at: 2:44
+Departure queue full. Flight Departure: UA112 departure delayed due air traffic control at: 2:46
+Departure queue full. Flight Departure: UA113 departure delayed due air traffic control at: 2:48
+Departure queue full. Flight Departure: UA114 departure delayed due air traffic control at: 2:50
+Flight Departure: UA90 departed at: 2:50
+Departure queue full. Flight Departure: UA116 departure delayed due air traffic control at: 2:54
+Departure queue full. Flight Departure: UA117 departure delayed due air traffic control at: 2:56
+Departure queue full. Flight Departure: UA118 departure delayed due air traffic control at: 2:58
+Departure queue full. Flight Departure: UA119 departure delayed due air traffic control at: 3:00
+Flight Departure: UA95 departed at: 3:00
+Departure queue full. Flight Departure: UA121 departure delayed due air traffic control at: 3:04
+Departure queue full. Flight Departure: UA122 departure delayed due air traffic control at: 3:06
+Departure queue full. Flight Departure: UA123 departure delayed due air traffic control at: 3:08
+Departure queue full. Flight Departure: UA124 departure delayed due air traffic control at: 3:10
+Flight Departure: UA100 departed at: 3:10
+Departure queue full. Flight Departure: UA126 departure delayed due air traffic control at: 3:14
+Departure queue full. Flight Departure: UA127 departure delayed due air traffic control at: 3:16
+Departure queue full. Flight Departure: UA128 departure delayed due air traffic control at: 3:18
+Departure queue full. Flight Departure: UA129 departure delayed due air traffic control at: 3:20
+Flight Departure: UA105 departed at: 3:20
+Departure queue full. Flight Departure: UA131 departure delayed due air traffic control at: 3:24
+Departure queue full. Flight Departure: UA132 departure delayed due air traffic control at: 3:26
+Departure queue full. Flight Departure: UA133 departure delayed due air traffic control at: 3:28
+Departure queue full. Flight Departure: UA134 departure delayed due air traffic control at: 3:30
+Flight Departure: UA110 departed at: 3:30
+Departure queue full. Flight Departure: UA136 departure delayed due air traffic control at: 3:34
+Departure queue full. Flight Departure: UA137 departure delayed due air traffic control at: 3:36
+Departure queue full. Flight Departure: UA138 departure delayed due air traffic control at: 3:38
+Departure queue full. Flight Departure: UA139 departure delayed due air traffic control at: 3:40
+Flight Departure: UA115 departed at: 3:40
+Departure queue full. Flight Departure: UA141 departure delayed due air traffic control at: 3:44
+Departure queue full. Flight Departure: UA142 departure delayed due air traffic control at: 3:46
+Departure queue full. Flight Departure: UA143 departure delayed due air traffic control at: 3:48
+Departure queue full. Flight Departure: UA144 departure delayed due air traffic control at: 3:50
+Flight Departure: UA120 departed at: 3:50
+Departure queue full. Flight Departure: UA146 departure delayed due air traffic control at: 3:54
+Departure queue full. Flight Departure: UA147 departure delayed due air traffic control at: 3:56
+Departure queue full. Flight Departure: UA148 departure delayed due air traffic control at: 3:58
+Departure queue full. Flight Departure: UA149 departure delayed due air traffic control at: 4:00
+Flight Departure: UA125 departed at: 4:00
+Departure queue full. Flight Departure: UA151 departure delayed due air traffic control at: 4:04
+Departure queue full. Flight Departure: UA152 departure delayed due air traffic control at: 4:06
+Departure queue full. Flight Departure: UA153 departure delayed due air traffic control at: 4:08
+Departure queue full. Flight Departure: UA154 departure delayed due air traffic control at: 4:10
+Flight Departure: UA130 departed at: 4:10
+Departure queue full. Flight Departure: UA156 departure delayed due air traffic control at: 4:14
+Departure queue full. Flight Departure: UA157 departure delayed due air traffic control at: 4:16
+Departure queue full. Flight Departure: UA158 departure delayed due air traffic control at: 4:18
+Departure queue full. Flight Departure: UA159 departure delayed due air traffic control at: 4:20
+Flight Departure: UA135 departed at: 4:20
+Departure queue full. Flight Departure: UA161 departure delayed due air traffic control at: 4:24
+Departure queue full. Flight Departure: UA162 departure delayed due air traffic control at: 4:26
+Departure queue full. Flight Departure: UA163 departure delayed due air traffic control at: 4:28
+Departure queue full. Flight Departure: UA164 departure delayed due air traffic control at: 4:30
+Departure queue full. Flight Departure: UA165 departure delayed due air traffic control at: 4:30
+Flight Departure: UA140 departed at: 4:30
+Departure queue full. Flight Departure: UA167 departure delayed due air traffic control at: 4:32
+Departure queue full. Flight Departure: UA168 departure delayed due air traffic control at: 4:34
+Departure queue full. Flight Departure: UA169 departure delayed due air traffic control at: 4:34
+Departure queue full. Flight Departure: UA170 departure delayed due air traffic control at: 4:36
+Departure queue full. Flight Departure: UA171 departure delayed due air traffic control at: 4:36
+Departure queue full. Flight Departure: UA172 departure delayed due air traffic control at: 4:38
+Departure queue full. Flight Departure: UA173 departure delayed due air traffic control at: 4:38
+Departure queue full. Flight Departure: UA174 departure delayed due air traffic control at: 4:40
+Departure queue full. Flight Departure: UA175 departure delayed due air traffic control at: 4:40
+Flight Departure: UA145 departed at: 4:40
+Departure queue full. Flight Departure: UA177 departure delayed due air traffic control at: 4:42
+Departure queue full. Flight Departure: UA178 departure delayed due air traffic control at: 4:44
+Departure queue full. Flight Departure: UA179 departure delayed due air traffic control at: 4:44
+Departure queue full. Flight Departure: UA180 departure delayed due air traffic control at: 4:46
+Departure queue full. Flight Departure: UA181 departure delayed due air traffic control at: 4:46
+Departure queue full. Flight Departure: UA182 departure delayed due air traffic control at: 4:48
+Departure queue full. Flight Departure: UA183 departure delayed due air traffic control at: 4:48
+Departure queue full. Flight Departure: UA184 departure delayed due air traffic control at: 4:50
+Departure queue full. Flight Departure: UA185 departure delayed due air traffic control at: 4:50
+Departure queue full. Flight Departure: UA186 departure delayed due air traffic control at: 4:50
+Flight Departure: UA150 departed at: 4:50
+Departure queue full. Flight Departure: UA188 departure delayed due air traffic control at: 4:52
+Departure queue full. Flight Departure: UA189 departure delayed due air traffic control at: 4:52
+Departure queue full. Flight Departure: UA190 departure delayed due air traffic control at: 4:54
+Departure queue full. Flight Departure: UA191 departure delayed due air traffic control at: 4:54
+Departure queue full. Flight Departure: UA192 departure delayed due air traffic control at: 4:54
+Departure queue full. Flight Departure: UA193 departure delayed due air traffic control at: 4:56
+Departure queue full. Flight Departure: UA194 departure delayed due air traffic control at: 4:56
+Departure queue full. Flight Departure: UA195 departure delayed due air traffic control at: 4:56
+Departure queue full. Flight Departure: UA196 departure delayed due air traffic control at: 4:58
+Departure queue full. Flight Departure: UA197 departure delayed due air traffic control at: 4:58
+Departure queue full. Flight Departure: UA198 departure delayed due air traffic control at: 4:58
+Departure queue full. Flight Departure: UA199 departure delayed due air traffic control at: 5:00
+Departure queue full. Flight Departure: UA200 departure delayed due air traffic control at: 5:00
+Departure queue full. Flight Departure: UA201 departure delayed due air traffic control at: 5:00
+Flight Departure: UA155 departed at: 5:00
+Departure queue full. Flight Departure: UA203 departure delayed due air traffic control at: 5:02
+Departure queue full. Flight Departure: UA204 departure delayed due air traffic control at: 5:02
+Departure queue full. Flight Departure: UA205 departure delayed due air traffic control at: 5:04
+Departure queue full. Flight Departure: UA206 departure delayed due air traffic control at: 5:04
+Departure queue full. Flight Departure: UA207 departure delayed due air traffic control at: 5:04
+Departure queue full. Flight Departure: UA208 departure delayed due air traffic control at: 5:06
+Departure queue full. Flight Departure: UA209 departure delayed due air traffic control at: 5:08
+Departure queue full. Flight Departure: UA210 departure delayed due air traffic control at: 5:10
+Flight Departure: UA160 departed at: 5:10
+Departure queue full. Flight Departure: UA212 departure delayed due air traffic control at: 5:14
+Departure queue full. Flight Departure: UA213 departure delayed due air traffic control at: 5:16
+Departure queue full. Flight Departure: UA214 departure delayed due air traffic control at: 5:18
+Departure queue full. Flight Departure: UA215 departure delayed due air traffic control at: 5:20
+Flight Departure: UA166 departed at: 5:20
+Departure queue full. Flight Departure: UA217 departure delayed due air traffic control at: 5:24
+Departure queue full. Flight Departure: UA218 departure delayed due air traffic control at: 5:26
+Departure queue full. Flight Departure: UA219 departure delayed due air traffic control at: 5:28
+Departure queue full. Flight Departure: UA220 departure delayed due air traffic control at: 5:30
+Flight Departure: UA176 departed at: 5:30
+Departure queue full. Flight Departure: UA222 departure delayed due air traffic control at: 5:34
+Departure queue full. Flight Departure: UA223 departure delayed due air traffic control at: 5:36
+Departure queue full. Flight Departure: UA224 departure delayed due air traffic control at: 5:38
+Departure queue full. Flight Departure: UA225 departure delayed due air traffic control at: 5:40
+Flight Departure: UA187 departed at: 5:40
+Departure queue full. Flight Departure: UA227 departure delayed due air traffic control at: 5:44
+Departure queue full. Flight Departure: UA228 departure delayed due air traffic control at: 5:46
+Departure queue full. Flight Departure: UA229 departure delayed due air traffic control at: 5:48
+Departure queue full. Flight Departure: UA230 departure delayed due air traffic control at: 5:50
+Flight Departure: UA202 departed at: 5:50
+Departure queue full. Flight Departure: UA232 departure delayed due air traffic control at: 5:54
+Departure queue full. Flight Departure: UA233 departure delayed due air traffic control at: 5:56
+Departure queue full. Flight Departure: UA234 departure delayed due air traffic control at: 5:58
+Departure queue full. Flight Departure: UA235 departure delayed due air traffic control at: 6:00
+Flight Departure: UA211 departed at: 6:00
+Departure queue full. Flight Departure: UA237 departure delayed due air traffic control at: 6:04
+Departure queue full. Flight Departure: UA238 departure delayed due air traffic control at: 6:06
+Departure queue full. Flight Departure: UA239 departure delayed due air traffic control at: 6:08
+Departure queue full. Flight Departure: UA240 departure delayed due air traffic control at: 6:10
+Flight Departure: UA216 departed at: 6:10
+Departure queue full. Flight Departure: UA242 departure delayed due air traffic control at: 6:14
+Departure queue full. Flight Departure: UA243 departure delayed due air traffic control at: 6:16
+Departure queue full. Flight Departure: UA244 departure delayed due air traffic control at: 6:18
+Departure queue full. Flight Departure: UA245 departure delayed due air traffic control at: 6:20
+Flight Departure: UA221 departed at: 6:20
+Departure queue full. Flight Departure: UA247 departure delayed due air traffic control at: 6:24
+Departure queue full. Flight Departure: UA248 departure delayed due air traffic control at: 6:24
+Departure queue full. Flight Departure: UA249 departure delayed due air traffic control at: 6:24
+Departure queue full. Flight Departure: UA250 departure delayed due air traffic control at: 6:26
+Departure queue full. Flight Departure: UA251 departure delayed due air traffic control at: 6:26
+Departure queue full. Flight Departure: UA252 departure delayed due air traffic control at: 6:26
+Departure queue full. Flight Departure: UA253 departure delayed due air traffic control at: 6:28
+Departure queue full. Flight Departure: UA254 departure delayed due air traffic control at: 6:28
+Departure queue full. Flight Departure: UA255 departure delayed due air traffic control at: 6:28
+Departure queue full. Flight Departure: UA256 departure delayed due air traffic control at: 6:30
+Departure queue full. Flight Departure: UA257 departure delayed due air traffic control at: 6:30
+Departure queue full. Flight Departure: UA258 departure delayed due air traffic control at: 6:30
+Flight Departure: UA226 departed at: 6:30
+Departure queue full. Flight Departure: UA260 departure delayed due air traffic control at: 6:32
+Departure queue full. Flight Departure: UA261 departure delayed due air traffic control at: 6:32
+Departure queue full. Flight Departure: UA262 departure delayed due air traffic control at: 6:34
+Departure queue full. Flight Departure: UA263 departure delayed due air traffic control at: 6:34
+Departure queue full. Flight Departure: UA264 departure delayed due air traffic control at: 6:34
+Departure queue full. Flight Departure: UA265 departure delayed due air traffic control at: 6:36
+Departure queue full. Flight Departure: UA266 departure delayed due air traffic control at: 6:38
+Departure queue full. Flight Departure: UA267 departure delayed due air traffic control at: 6:40
+Flight Departure: UA231 departed at: 6:40
+Departure queue full. Flight Departure: UA269 departure delayed due air traffic control at: 6:44
+Departure queue full. Flight Departure: UA270 departure delayed due air traffic control at: 6:46
+Departure queue full. Flight Departure: UA271 departure delayed due air traffic control at: 6:48
+Departure queue full. Flight Departure: UA272 departure delayed due air traffic control at: 6:50
+Flight Departure: UA236 departed at: 6:50
+Departure queue full. Flight Departure: UA274 departure delayed due air traffic control at: 6:54
+Departure queue full. Flight Departure: UA275 departure delayed due air traffic control at: 6:56
+Departure queue full. Flight Departure: UA276 departure delayed due air traffic control at: 6:58
+Departure queue full. Flight Departure: UA277 departure delayed due air traffic control at: 7:00
+Flight Departure: UA241 departed at: 7:00
+Departure queue full. Flight Departure: UA279 departure delayed due air traffic control at: 7:04
+Departure queue full. Flight Departure: UA280 departure delayed due air traffic control at: 7:06
+Departure queue full. Flight Departure: UA281 departure delayed due air traffic control at: 7:08
+Departure queue full. Flight Departure: UA282 departure delayed due air traffic control at: 7:10
+Flight Departure: UA246 departed at: 7:10
+Departure queue full. Flight Departure: UA284 departure delayed due air traffic control at: 7:14
+Departure queue full. Flight Departure: UA285 departure delayed due air traffic control at: 7:16
+Departure queue full. Flight Departure: UA286 departure delayed due air traffic control at: 7:18
+Departure queue full. Flight Departure: UA287 departure delayed due air traffic control at: 7:18
+Departure queue full. Flight Departure: UA288 departure delayed due air traffic control at: 7:20
+Departure queue full. Flight Departure: UA289 departure delayed due air traffic control at: 7:20
+Flight Departure: UA259 departed at: 7:20
+Departure queue full. Flight Departure: UA291 departure delayed due air traffic control at: 7:22
+Departure queue full. Flight Departure: UA292 departure delayed due air traffic control at: 7:24
+Departure queue full. Flight Departure: UA293 departure delayed due air traffic control at: 7:24
+Departure queue full. Flight Departure: UA294 departure delayed due air traffic control at: 7:26
+Departure queue full. Flight Departure: UA295 departure delayed due air traffic control at: 7:26
+Departure queue full. Flight Departure: UA296 departure delayed due air traffic control at: 7:28
+Departure queue full. Flight Departure: UA297 departure delayed due air traffic control at: 7:28
+Departure queue full. Flight Departure: UA298 departure delayed due air traffic control at: 7:30
+Departure queue full. Flight Departure: UA299 departure delayed due air traffic control at: 7:30
+Flight Departure: UA268 departed at: 7:30
+Departure queue full. Flight Departure: UA301 departure delayed due air traffic control at: 7:32
+Departure queue full. Flight Departure: UA302 departure delayed due air traffic control at: 7:34
+Departure queue full. Flight Departure: UA303 departure delayed due air traffic control at: 7:34
+Departure queue full. Flight Departure: UA304 departure delayed due air traffic control at: 7:36
+Departure queue full. Flight Departure: UA305 departure delayed due air traffic control at: 7:36
+Departure queue full. Flight Departure: UA306 departure delayed due air traffic control at: 7:38
+Departure queue full. Flight Departure: UA307 departure delayed due air traffic control at: 7:38
+Departure queue full. Flight Departure: UA308 departure delayed due air traffic control at: 7:40
+Departure queue full. Flight Departure: UA309 departure delayed due air traffic control at: 7:40
+Flight Departure: UA273 departed at: 7:40
+Departure queue full. Flight Departure: UA311 departure delayed due air traffic control at: 7:42
+Departure queue full. Flight Departure: UA312 departure delayed due air traffic control at: 7:44
+Departure queue full. Flight Departure: UA313 departure delayed due air traffic control at: 7:44
+Departure queue full. Flight Departure: UA314 departure delayed due air traffic control at: 7:46
+Departure queue full. Flight Departure: UA315 departure delayed due air traffic control at: 7:48
+Departure queue full. Flight Departure: UA316 departure delayed due air traffic control at: 7:50
+Flight Departure: UA278 departed at: 7:50
+Departure queue full. Flight Departure: UA318 departure delayed due air traffic control at: 7:54
+Departure queue full. Flight Departure: UA319 departure delayed due air traffic control at: 7:56
+Departure queue full. Flight Departure: UA320 departure delayed due air traffic control at: 7:58
+Departure queue full. Flight Departure: UA321 departure delayed due air traffic control at: 8:00
+Flight Departure: UA283 departed at: 8:00
+Departure queue full. Flight Departure: UA323 departure delayed due air traffic control at: 8:04
+Departure queue full. Flight Departure: UA324 departure delayed due air traffic control at: 8:06
+Departure queue full. Flight Departure: UA325 departure delayed due air traffic control at: 8:08
+Departure queue full. Flight Departure: UA326 departure delayed due air traffic control at: 8:10
+Flight Departure: UA290 departed at: 8:10
+Departure queue full. Flight Departure: UA328 departure delayed due air traffic control at: 8:14
+Departure queue full. Flight Departure: UA329 departure delayed due air traffic control at: 8:16
+Departure queue full. Flight Departure: UA330 departure delayed due air traffic control at: 8:18
+Departure queue full. Flight Departure: UA331 departure delayed due air traffic control at: 8:20
+Flight Departure: UA300 departed at: 8:20
+Departure queue full. Flight Departure: UA333 departure delayed due air traffic control at: 8:24
+Departure queue full. Flight Departure: UA334 departure delayed due air traffic control at: 8:26
+Departure queue full. Flight Departure: UA335 departure delayed due air traffic control at: 8:28
+Departure queue full. Flight Departure: UA336 departure delayed due air traffic control at: 8:30
+Flight Departure: UA310 departed at: 8:30
+Departure queue full. Flight Departure: UA338 departure delayed due air traffic control at: 8:34
+Departure queue full. Flight Departure: UA339 departure delayed due air traffic control at: 8:36
+Departure queue full. Flight Departure: UA340 departure delayed due air traffic control at: 8:38
+Departure queue full. Flight Departure: UA341 departure delayed due air traffic control at: 8:40
+Flight Departure: UA317 departed at: 8:40
+Departure queue full. Flight Departure: UA343 departure delayed due air traffic control at: 8:44
+Departure queue full. Flight Departure: UA344 departure delayed due air traffic control at: 8:46
+Departure queue full. Flight Departure: UA345 departure delayed due air traffic control at: 8:48
+Departure queue full. Flight Departure: UA346 departure delayed due air traffic control at: 8:50
+Flight Departure: UA322 departed at: 8:50
+Departure queue full. Flight Departure: UA348 departure delayed due air traffic control at: 8:54
+Departure queue full. Flight Departure: UA349 departure delayed due air traffic control at: 8:56
+Departure queue full. Flight Departure: UA350 departure delayed due air traffic control at: 8:58
+Departure queue full. Flight Departure: UA351 departure delayed due air traffic control at: 9:00
+Flight Departure: UA327 departed at: 9:00
+Departure queue full. Flight Departure: UA353 departure delayed due air traffic control at: 9:04
+Departure queue full. Flight Departure: UA354 departure delayed due air traffic control at: 9:06
+Departure queue full. Flight Departure: UA355 departure delayed due air traffic control at: 9:08
+Departure queue full. Flight Departure: UA356 departure delayed due air traffic control at: 9:10
+Departure queue full. Flight Departure: UA357 departure delayed due air traffic control at: 9:10
+Flight Departure: UA332 departed at: 9:10
+Departure queue full. Flight Departure: UA359 departure delayed due air traffic control at: 9:12
+Departure queue full. Flight Departure: UA360 departure delayed due air traffic control at: 9:14
+Departure queue full. Flight Departure: UA361 departure delayed due air traffic control at: 9:14
+Departure queue full. Flight Departure: UA362 departure delayed due air traffic control at: 9:16
+Departure queue full. Flight Departure: UA363 departure delayed due air traffic control at: 9:16
+Departure queue full. Flight Departure: UA364 departure delayed due air traffic control at: 9:18
+Departure queue full. Flight Departure: UA365 departure delayed due air traffic control at: 9:18
+Departure queue full. Flight Departure: UA366 departure delayed due air traffic control at: 9:20
+Departure queue full. Flight Departure: UA367 departure delayed due air traffic control at: 9:20
+Flight Departure: UA337 departed at: 9:20
+Departure queue full. Flight Departure: UA369 departure delayed due air traffic control at: 9:22
+Departure queue full. Flight Departure: UA370 departure delayed due air traffic control at: 9:24
+Departure queue full. Flight Departure: UA371 departure delayed due air traffic control at: 9:24
+Departure queue full. Flight Departure: UA372 departure delayed due air traffic control at: 9:26
+Departure queue full. Flight Departure: UA373 departure delayed due air traffic control at: 9:26
+Departure queue full. Flight Departure: UA374 departure delayed due air traffic control at: 9:28
+Departure queue full. Flight Departure: UA375 departure delayed due air traffic control at: 9:28
+Departure queue full. Flight Departure: UA376 departure delayed due air traffic control at: 9:30
+Departure queue full. Flight Departure: UA377 departure delayed due air traffic control at: 9:30
+Flight Departure: UA342 departed at: 9:30
+Departure queue full. Flight Departure: UA379 departure delayed due air traffic control at: 9:32
+Departure queue full. Flight Departure: UA380 departure delayed due air traffic control at: 9:34
+Departure queue full. Flight Departure: UA381 departure delayed due air traffic control at: 9:36
+Departure queue full. Flight Departure: UA382 departure delayed due air traffic control at: 9:38
+Departure queue full. Flight Departure: UA383 departure delayed due air traffic control at: 9:40
+Flight Departure: UA347 departed at: 9:40
+Departure queue full. Flight Departure: UA385 departure delayed due air traffic control at: 9:44
+Departure queue full. Flight Departure: UA386 departure delayed due air traffic control at: 9:46
+Departure queue full. Flight Departure: UA387 departure delayed due air traffic control at: 9:48
+Departure queue full. Flight Departure: UA388 departure delayed due air traffic control at: 9:50
+Flight Departure: UA352 departed at: 9:50
+Departure queue full. Flight Departure: UA390 departure delayed due air traffic control at: 9:54
+Departure queue full. Flight Departure: UA391 departure delayed due air traffic control at: 9:56
+Departure queue full. Flight Departure: UA392 departure delayed due air traffic control at: 9:58
+Departure queue full. Flight Departure: UA393 departure delayed due air traffic control at: 10:00
+Departure queue full. Flight Departure: UA394 departure delayed due air traffic control at: 10:00
+Flight Departure: UA358 departed at: 10:00
+Departure queue full. Flight Departure: UA396 departure delayed due air traffic control at: 10:02
+Departure queue full. Flight Departure: UA397 departure delayed due air traffic control at: 10:04
+Departure queue full. Flight Departure: UA398 departure delayed due air traffic control at: 10:04
+Departure queue full. Flight Departure: UA399 departure delayed due air traffic control at: 10:06
+Departure queue full. Flight Departure: UA400 departure delayed due air traffic control at: 10:06
+Departure queue full. Flight Departure: UA401 departure delayed due air traffic control at: 10:08
+Departure queue full. Flight Departure: UA402 departure delayed due air traffic control at: 10:08
+Departure queue full. Flight Departure: UA403 departure delayed due air traffic control at: 10:10
+Departure queue full. Flight Departure: UA404 departure delayed due air traffic control at: 10:10
+Flight Departure: UA368 departed at: 10:10
+Departure queue full. Flight Departure: UA406 departure delayed due air traffic control at: 10:12
+Departure queue full. Flight Departure: UA407 departure delayed due air traffic control at: 10:14
+Departure queue full. Flight Departure: UA408 departure delayed due air traffic control at: 10:14
+Departure queue full. Flight Departure: UA409 departure delayed due air traffic control at: 10:16
+Departure queue full. Flight Departure: UA410 departure delayed due air traffic control at: 10:16
+Departure queue full. Flight Departure: UA411 departure delayed due air traffic control at: 10:18
+Departure queue full. Flight Departure: UA412 departure delayed due air traffic control at: 10:20
+Flight Departure: UA378 departed at: 10:20
+Departure queue full. Flight Departure: UA414 departure delayed due air traffic control at: 10:24
+Departure queue full. Flight Departure: UA415 departure delayed due air traffic control at: 10:26
+Departure queue full. Flight Departure: UA416 departure delayed due air traffic control at: 10:28
+Departure queue full. Flight Departure: UA417 departure delayed due air traffic control at: 10:30
+Flight Departure: UA384 departed at: 10:30
+Departure queue full. Flight Departure: UA419 departure delayed due air traffic control at: 10:34
+Departure queue full. Flight Departure: UA420 departure delayed due air traffic control at: 10:36
+Departure queue full. Flight Departure: UA421 departure delayed due air traffic control at: 10:38
+Departure queue full. Flight Departure: UA422 departure delayed due air traffic control at: 10:40
+Flight Departure: UA389 departed at: 10:40
+Departure queue full. Flight Departure: UA424 departure delayed due air traffic control at: 10:44
+Departure queue full. Flight Departure: UA425 departure delayed due air traffic control at: 10:46
+Departure queue full. Flight Departure: UA426 departure delayed due air traffic control at: 10:48
+Departure queue full. Flight Departure: UA427 departure delayed due air traffic control at: 10:50
+Flight Departure: UA395 departed at: 10:50
+Departure queue full. Flight Departure: UA429 departure delayed due air traffic control at: 10:54
+Departure queue full. Flight Departure: UA430 departure delayed due air traffic control at: 10:56
+Departure queue full. Flight Departure: UA431 departure delayed due air traffic control at: 10:58
+Departure queue full. Flight Departure: UA432 departure delayed due air traffic control at: 11:00
+Flight Departure: UA405 departed at: 11:00
+Departure queue full. Flight Departure: UA434 departure delayed due air traffic control at: 11:04
+Departure queue full. Flight Departure: UA435 departure delayed due air traffic control at: 11:06
+Departure queue full. Flight Departure: UA436 departure delayed due air traffic control at: 11:08
+Departure queue full. Flight Departure: UA437 departure delayed due air traffic control at: 11:10
+Flight Departure: UA413 departed at: 11:10
+Departure queue full. Flight Departure: UA439 departure delayed due air traffic control at: 11:14
+Departure queue full. Flight Departure: UA440 departure delayed due air traffic control at: 11:16
+Departure queue full. Flight Departure: UA441 departure delayed due air traffic control at: 11:18
+Departure queue full. Flight Departure: UA442 departure delayed due air traffic control at: 11:20
+Flight Departure: UA418 departed at: 11:20
+Departure queue full. Flight Departure: UA444 departure delayed due air traffic control at: 11:24
+Departure queue full. Flight Departure: UA445 departure delayed due air traffic control at: 11:26
+Departure queue full. Flight Departure: UA446 departure delayed due air traffic control at: 11:28
+Departure queue full. Flight Departure: UA447 departure delayed due air traffic control at: 11:30
+Flight Departure: UA423 departed at: 11:30
+Departure queue full. Flight Departure: UA449 departure delayed due air traffic control at: 11:34
+Departure queue full. Flight Departure: UA450 departure delayed due air traffic control at: 11:36
+Departure queue full. Flight Departure: UA451 departure delayed due air traffic control at: 11:38
+Departure queue full. Flight Departure: UA452 departure delayed due air traffic control at: 11:40
+Flight Departure: UA428 departed at: 11:40
+Departure queue full. Flight Departure: UA454 departure delayed due air traffic control at: 11:44
+Departure queue full. Flight Departure: UA455 departure delayed due air traffic control at: 11:46
+Departure queue full. Flight Departure: UA456 departure delayed due air traffic control at: 11:48
+Departure queue full. Flight Departure: UA457 departure delayed due air traffic control at: 11:50
+Flight Departure: UA433 departed at: 11:50
+Departure queue full. Flight Departure: UA459 departure delayed due air traffic control at: 11:54
+Departure queue full. Flight Departure: UA460 departure delayed due air traffic control at: 11:56
+Departure queue full. Flight Departure: UA461 departure delayed due air traffic control at: 11:58
+Departure queue full. Flight Departure: UA462 departure delayed due air traffic control at: 12:00
+Flight Departure: UA438 departed at: 12:00
+Departure queue full. Flight Departure: UA464 departure delayed due air traffic control at: 12:04
+Departure queue full. Flight Departure: UA465 departure delayed due air traffic control at: 12:06
+Departure queue full. Flight Departure: UA466 departure delayed due air traffic control at: 12:08
+Departure queue full. Flight Departure: UA467 departure delayed due air traffic control at: 12:10
+Flight Departure: UA443 departed at: 12:10
+Departure queue full. Flight Departure: UA469 departure delayed due air traffic control at: 12:14
+Departure queue full. Flight Departure: UA470 departure delayed due air traffic control at: 12:16
+Departure queue full. Flight Departure: UA471 departure delayed due air traffic control at: 12:18
+Departure queue full. Flight Departure: UA472 departure delayed due air traffic control at: 12:20
+Flight Departure: UA448 departed at: 12:20
+Departure queue full. Flight Departure: UA474 departure delayed due air traffic control at: 12:24
+Departure queue full. Flight Departure: UA475 departure delayed due air traffic control at: 12:26
+Departure queue full. Flight Departure: UA476 departure delayed due air traffic control at: 12:28
+Departure queue full. Flight Departure: UA477 departure delayed due air traffic control at: 12:30
+Flight Departure: UA453 departed at: 12:30
+Departure queue full. Flight Departure: UA479 departure delayed due air traffic control at: 12:34
+Departure queue full. Flight Departure: UA480 departure delayed due air traffic control at: 12:36
+Departure queue full. Flight Departure: UA481 departure delayed due air traffic control at: 12:38
+Departure queue full. Flight Departure: UA482 departure delayed due air traffic control at: 12:40
+Flight Departure: UA458 departed at: 12:40
+Departure queue full. Flight Departure: UA484 departure delayed due air traffic control at: 12:44
+Departure queue full. Flight Departure: UA485 departure delayed due air traffic control at: 12:46
+Departure queue full. Flight Departure: UA486 departure delayed due air traffic control at: 12:48
+Departure queue full. Flight Departure: UA487 departure delayed due air traffic control at: 12:50
+Flight Departure: UA463 departed at: 12:50
+Departure queue full. Flight Departure: UA489 departure delayed due air traffic control at: 12:54
+Departure queue full. Flight Departure: UA490 departure delayed due air traffic control at: 12:56
+Departure queue full. Flight Departure: UA491 departure delayed due air traffic control at: 12:58
+Departure queue full. Flight Departure: UA492 departure delayed due air traffic control at: 12:58
+Departure queue full. Flight Departure: UA493 departure delayed due air traffic control at: 13:00
+Departure queue full. Flight Departure: UA494 departure delayed due air traffic control at: 13:00
+Flight Departure: UA468 departed at: 13:00
+Departure queue full. Flight Departure: UA496 departure delayed due air traffic control at: 13:02
+Departure queue full. Flight Departure: UA497 departure delayed due air traffic control at: 13:04
+Departure queue full. Flight Departure: UA498 departure delayed due air traffic control at: 13:04
+Departure queue full. Flight Departure: UA499 departure delayed due air traffic control at: 13:06
+Departure queue full. Flight Departure: UA500 departure delayed due air traffic control at: 13:06
+Departure queue full. Flight Departure: UA501 departure delayed due air traffic control at: 13:08
+Departure queue full. Flight Departure: UA502 departure delayed due air traffic control at: 13:08
+Departure queue full. Flight Departure: UA503 departure delayed due air traffic control at: 13:10
+Departure queue full. Flight Departure: UA504 departure delayed due air traffic control at: 13:10
+Flight Departure: UA473 departed at: 13:10
+Departure queue full. Flight Departure: UA506 departure delayed due air traffic control at: 13:12
+Departure queue full. Flight Departure: UA507 departure delayed due air traffic control at: 13:14
+Departure queue full. Flight Departure: UA508 departure delayed due air traffic control at: 13:14
+Departure queue full. Flight Departure: UA509 departure delayed due air traffic control at: 13:16
+Departure queue full. Flight Departure: UA510 departure delayed due air traffic control at: 13:16
+Departure queue full. Flight Departure: UA511 departure delayed due air traffic control at: 13:18
+Departure queue full. Flight Departure: UA512 departure delayed due air traffic control at: 13:18
+Departure queue full. Flight Departure: UA513 departure delayed due air traffic control at: 13:20
+Flight Departure: UA478 departed at: 13:20
+Departure queue full. Flight Departure: UA515 departure delayed due air traffic control at: 13:24
+Departure queue full. Flight Departure: UA516 departure delayed due air traffic control at: 13:26
+Departure queue full. Flight Departure: UA517 departure delayed due air traffic control at: 13:28
+Departure queue full. Flight Departure: UA518 departure delayed due air traffic control at: 13:30
+Flight Departure: UA483 departed at: 13:30
+Departure queue full. Flight Departure: UA520 departure delayed due air traffic control at: 13:34
+Departure queue full. Flight Departure: UA521 departure delayed due air traffic control at: 13:36
+Departure queue full. Flight Departure: UA522 departure delayed due air traffic control at: 13:38
+Departure queue full. Flight Departure: UA523 departure delayed due air traffic control at: 13:40
+Flight Departure: UA488 departed at: 13:40
+Departure queue full. Flight Departure: UA525 departure delayed due air traffic control at: 13:44
+Departure queue full. Flight Departure: UA526 departure delayed due air traffic control at: 13:46
+Departure queue full. Flight Departure: UA527 departure delayed due air traffic control at: 13:48
+Departure queue full. Flight Departure: UA528 departure delayed due air traffic control at: 13:50
+Flight Departure: UA495 departed at: 13:50
+Departure queue full. Flight Departure: UA530 departure delayed due air traffic control at: 13:54
+Departure queue full. Flight Departure: UA531 departure delayed due air traffic control at: 13:56
+Departure queue full. Flight Departure: UA532 departure delayed due air traffic control at: 13:58
+Departure queue full. Flight Departure: UA533 departure delayed due air traffic control at: 14:00
+Flight Departure: UA505 departed at: 14:00
+Departure queue full. Flight Departure: UA535 departure delayed due air traffic control at: 14:04
+Departure queue full. Flight Departure: UA536 departure delayed due air traffic control at: 14:06
+Departure queue full. Flight Departure: UA537 departure delayed due air traffic control at: 14:08
+Departure queue full. Flight Departure: UA538 departure delayed due air traffic control at: 14:10
+Flight Departure: UA514 departed at: 14:10
+Departure queue full. Flight Departure: UA540 departure delayed due air traffic control at: 14:14
+Departure queue full. Flight Departure: UA541 departure delayed due air traffic control at: 14:16
+Departure queue full. Flight Departure: UA542 departure delayed due air traffic control at: 14:18
+Departure queue full. Flight Departure: UA543 departure delayed due air traffic control at: 14:20
+Flight Departure: UA519 departed at: 14:20
+Departure queue full. Flight Departure: UA545 departure delayed due air traffic control at: 14:24
+Departure queue full. Flight Departure: UA546 departure delayed due air traffic control at: 14:26
+Departure queue full. Flight Departure: UA547 departure delayed due air traffic control at: 14:28
+Departure queue full. Flight Departure: UA548 departure delayed due air traffic control at: 14:30
+Flight Departure: UA524 departed at: 14:30
+Departure queue full. Flight Departure: UA550 departure delayed due air traffic control at: 14:34
+Departure queue full. Flight Departure: UA551 departure delayed due air traffic control at: 14:36
+Departure queue full. Flight Departure: UA552 departure delayed due air traffic control at: 14:38
+Departure queue full. Flight Departure: UA553 departure delayed due air traffic control at: 14:40
+Flight Departure: UA529 departed at: 14:40
+Departure queue full. Flight Departure: UA555 departure delayed due air traffic control at: 14:44
+Departure queue full. Flight Departure: UA556 departure delayed due air traffic control at: 14:46
+Departure queue full. Flight Departure: UA557 departure delayed due air traffic control at: 14:48
+Departure queue full. Flight Departure: UA558 departure delayed due air traffic control at: 14:50
+Flight Departure: UA534 departed at: 14:50
+Departure queue full. Flight Departure: UA560 departure delayed due air traffic control at: 14:54
+Departure queue full. Flight Departure: UA561 departure delayed due air traffic control at: 14:56
+Departure queue full. Flight Departure: UA562 departure delayed due air traffic control at: 14:58
+Departure queue full. Flight Departure: UA563 departure delayed due air traffic control at: 15:00
+Flight Departure: UA539 departed at: 15:00
+Departure queue full. Flight Departure: UA565 departure delayed due air traffic control at: 15:04
+Departure queue full. Flight Departure: UA566 departure delayed due air traffic control at: 15:06
+Departure queue full. Flight Departure: UA567 departure delayed due air traffic control at: 15:08
+Departure queue full. Flight Departure: UA568 departure delayed due air traffic control at: 15:10
+Flight Departure: UA544 departed at: 15:10
+Departure queue full. Flight Departure: UA570 departure delayed due air traffic control at: 15:14
+Departure queue full. Flight Departure: UA571 departure delayed due air traffic control at: 15:16
+Departure queue full. Flight Departure: UA572 departure delayed due air traffic control at: 15:18
+Departure queue full. Flight Departure: UA573 departure delayed due air traffic control at: 15:20
+Flight Departure: UA549 departed at: 15:20
+Departure queue full. Flight Departure: UA575 departure delayed due air traffic control at: 15:24
+Departure queue full. Flight Departure: UA576 departure delayed due air traffic control at: 15:26
+Departure queue full. Flight Departure: UA577 departure delayed due air traffic control at: 15:28
+Departure queue full. Flight Departure: UA578 departure delayed due air traffic control at: 15:30
+Flight Departure: UA554 departed at: 15:30
+Departure queue full. Flight Departure: UA580 departure delayed due air traffic control at: 15:34
+Departure queue full. Flight Departure: UA581 departure delayed due air traffic control at: 15:36
+Departure queue full. Flight Departure: UA582 departure delayed due air traffic control at: 15:38
+Departure queue full. Flight Departure: UA583 departure delayed due air traffic control at: 15:40
+Flight Departure: UA559 departed at: 15:40
+Departure queue full. Flight Departure: UA585 departure delayed due air traffic control at: 15:44
+Departure queue full. Flight Departure: UA586 departure delayed due air traffic control at: 15:46
+Departure queue full. Flight Departure: UA587 departure delayed due air traffic control at: 15:48
+Departure queue full. Flight Departure: UA588 departure delayed due air traffic control at: 15:50
+Flight Departure: UA564 departed at: 15:50
+Departure queue full. Flight Departure: UA590 departure delayed due air traffic control at: 15:54
+Departure queue full. Flight Departure: UA591 departure delayed due air traffic control at: 15:56
+Departure queue full. Flight Departure: UA592 departure delayed due air traffic control at: 15:58
+Departure queue full. Flight Departure: UA593 departure delayed due air traffic control at: 16:00
+Flight Departure: UA569 departed at: 16:00
+Departure queue full. Flight Departure: UA595 departure delayed due air traffic control at: 16:04
+Departure queue full. Flight Departure: UA596 departure delayed due air traffic control at: 16:06
+Departure queue full. Flight Departure: UA597 departure delayed due air traffic control at: 16:08
+Departure queue full. Flight Departure: UA598 departure delayed due air traffic control at: 16:10
+Flight Departure: UA574 departed at: 16:10
+Departure queue full. Flight Departure: UA600 departure delayed due air traffic control at: 16:14
+Departure queue full. Flight Departure: UA601 departure delayed due air traffic control at: 16:16
+Departure queue full. Flight Departure: UA602 departure delayed due air traffic control at: 16:18
+Departure queue full. Flight Departure: UA603 departure delayed due air traffic control at: 16:20
+Flight Departure: UA579 departed at: 16:20
+Departure queue full. Flight Departure: UA605 departure delayed due air traffic control at: 16:24
+Departure queue full. Flight Departure: UA606 departure delayed due air traffic control at: 16:26
+Departure queue full. Flight Departure: UA607 departure delayed due air traffic control at: 16:28
+Departure queue full. Flight Departure: UA608 departure delayed due air traffic control at: 16:30
+Flight Departure: UA584 departed at: 16:30
+Departure queue full. Flight Departure: UA610 departure delayed due air traffic control at: 16:34
+Departure queue full. Flight Departure: UA611 departure delayed due air traffic control at: 16:36
+Departure queue full. Flight Departure: UA612 departure delayed due air traffic control at: 16:38
+Departure queue full. Flight Departure: UA613 departure delayed due air traffic control at: 16:40
+Flight Departure: UA589 departed at: 16:40
+Departure queue full. Flight Departure: UA615 departure delayed due air traffic control at: 16:44
+Departure queue full. Flight Departure: UA616 departure delayed due air traffic control at: 16:46
+Departure queue full. Flight Departure: UA617 departure delayed due air traffic control at: 16:48
+Departure queue full. Flight Departure: UA618 departure delayed due air traffic control at: 16:50
+Flight Departure: UA594 departed at: 16:50
+Departure queue full. Flight Departure: UA620 departure delayed due air traffic control at: 16:54
+Departure queue full. Flight Departure: UA621 departure delayed due air traffic control at: 16:56
+Departure queue full. Flight Departure: UA622 departure delayed due air traffic control at: 16:58
+Departure queue full. Flight Departure: UA623 departure delayed due air traffic control at: 17:00
+Flight Departure: UA599 departed at: 17:00
+Departure queue full. Flight Departure: UA625 departure delayed due air traffic control at: 17:04
+Departure queue full. Flight Departure: UA626 departure delayed due air traffic control at: 17:06
+Departure queue full. Flight Departure: UA627 departure delayed due air traffic control at: 17:08
+Departure queue full. Flight Departure: UA628 departure delayed due air traffic control at: 17:10
+Flight Departure: UA604 departed at: 17:10
+Departure queue full. Flight Departure: UA630 departure delayed due air traffic control at: 17:14
+Departure queue full. Flight Departure: UA631 departure delayed due air traffic control at: 17:16
+Departure queue full. Flight Departure: UA632 departure delayed due air traffic control at: 17:18
+Departure queue full. Flight Departure: UA633 departure delayed due air traffic control at: 17:20
+Flight Departure: UA609 departed at: 17:20
+Departure queue full. Flight Departure: UA635 departure delayed due air traffic control at: 17:24
+Departure queue full. Flight Departure: UA636 departure delayed due air traffic control at: 17:26
+Departure queue full. Flight Departure: UA637 departure delayed due air traffic control at: 17:28
+Departure queue full. Flight Departure: UA638 departure delayed due air traffic control at: 17:30
+Flight Departure: UA614 departed at: 17:30
+Departure queue full. Flight Departure: UA640 departure delayed due air traffic control at: 17:34
+Departure queue full. Flight Departure: UA641 departure delayed due air traffic control at: 17:36
+Departure queue full. Flight Departure: UA642 departure delayed due air traffic control at: 17:38
+Departure queue full. Flight Departure: UA643 departure delayed due air traffic control at: 17:40
+Flight Departure: UA619 departed at: 17:40
+Departure queue full. Flight Departure: UA645 departure delayed due air traffic control at: 17:44
+Departure queue full. Flight Departure: UA646 departure delayed due air traffic control at: 17:46
+Departure queue full. Flight Departure: UA647 departure delayed due air traffic control at: 17:48
+Departure queue full. Flight Departure: UA648 departure delayed due air traffic control at: 17:48
+Departure queue full. Flight Departure: UA649 departure delayed due air traffic control at: 17:50
+Departure queue full. Flight Departure: UA650 departure delayed due air traffic control at: 17:50
+Flight Departure: UA624 departed at: 17:50
+Departure queue full. Flight Departure: UA652 departure delayed due air traffic control at: 17:52
+Departure queue full. Flight Departure: UA653 departure delayed due air traffic control at: 17:54
+Departure queue full. Flight Departure: UA654 departure delayed due air traffic control at: 17:54
+Departure queue full. Flight Departure: UA655 departure delayed due air traffic control at: 17:56
+Departure queue full. Flight Departure: UA656 departure delayed due air traffic control at: 17:56
+Departure queue full. Flight Departure: UA657 departure delayed due air traffic control at: 17:58
+Departure queue full. Flight Departure: UA658 departure delayed due air traffic control at: 17:58
+Departure queue full. Flight Departure: UA659 departure delayed due air traffic control at: 18:00
+Departure queue full. Flight Departure: UA660 departure delayed due air traffic control at: 18:00
+Flight Departure: UA629 departed at: 18:00
+Departure queue full. Flight Departure: UA662 departure delayed due air traffic control at: 18:02
+Departure queue full. Flight Departure: UA663 departure delayed due air traffic control at: 18:04
+Departure queue full. Flight Departure: UA664 departure delayed due air traffic control at: 18:04
+Departure queue full. Flight Departure: UA665 departure delayed due air traffic control at: 18:06
+Departure queue full. Flight Departure: UA666 departure delayed due air traffic control at: 18:06
+Departure queue full. Flight Departure: UA667 departure delayed due air traffic control at: 18:08
+Departure queue full. Flight Departure: UA668 departure delayed due air traffic control at: 18:08
+Departure queue full. Flight Departure: UA669 departure delayed due air traffic control at: 18:10
+Departure queue full. Flight Departure: UA670 departure delayed due air traffic control at: 18:10
+Flight Departure: UA634 departed at: 18:10
+Departure queue full. Flight Departure: UA672 departure delayed due air traffic control at: 18:12
+Departure queue full. Flight Departure: UA673 departure delayed due air traffic control at: 18:14
+Departure queue full. Flight Departure: UA674 departure delayed due air traffic control at: 18:14
+Departure queue full. Flight Departure: UA675 departure delayed due air traffic control at: 18:16
+Departure queue full. Flight Departure: UA676 departure delayed due air traffic control at: 18:16
+Departure queue full. Flight Departure: UA677 departure delayed due air traffic control at: 18:18
+Departure queue full. Flight Departure: UA678 departure delayed due air traffic control at: 18:18
+Departure queue full. Flight Departure: UA679 departure delayed due air traffic control at: 18:20
+Departure queue full. Flight Departure: UA680 departure delayed due air traffic control at: 18:20
+Flight Departure: UA639 departed at: 18:20
+Departure queue full. Flight Departure: UA682 departure delayed due air traffic control at: 18:22
+Departure queue full. Flight Departure: UA683 departure delayed due air traffic control at: 18:24
+Departure queue full. Flight Departure: UA684 departure delayed due air traffic control at: 18:24
+Departure queue full. Flight Departure: UA685 departure delayed due air traffic control at: 18:26
+Departure queue full. Flight Departure: UA686 departure delayed due air traffic control at: 18:26
+Departure queue full. Flight Departure: UA687 departure delayed due air traffic control at: 18:28
+Departure queue full. Flight Departure: UA688 departure delayed due air traffic control at: 18:28
+Departure queue full. Flight Departure: UA689 departure delayed due air traffic control at: 18:30
+Departure queue full. Flight Departure: UA690 departure delayed due air traffic control at: 18:30
+Flight Departure: UA644 departed at: 18:30
+Departure queue full. Flight Departure: UA692 departure delayed due air traffic control at: 18:32
+Departure queue full. Flight Departure: UA693 departure delayed due air traffic control at: 18:34
+Departure queue full. Flight Departure: UA694 departure delayed due air traffic control at: 18:34
+Departure queue full. Flight Departure: UA695 departure delayed due air traffic control at: 18:36
+Departure queue full. Flight Departure: UA696 departure delayed due air traffic control at: 18:36
+Departure queue full. Flight Departure: UA697 departure delayed due air traffic control at: 18:38
+Departure queue full. Flight Departure: UA698 departure delayed due air traffic control at: 18:38
+Departure queue full. Flight Departure: UA699 departure delayed due air traffic control at: 18:40
+Departure queue full. Flight Departure: UA700 departure delayed due air traffic control at: 18:40
+Flight Departure: UA651 departed at: 18:40
+Departure queue full. Flight Departure: UA702 departure delayed due air traffic control at: 18:42
+Departure queue full. Flight Departure: UA703 departure delayed due air traffic control at: 18:44
+Departure queue full. Flight Departure: UA704 departure delayed due air traffic control at: 18:46
+Departure queue full. Flight Departure: UA705 departure delayed due air traffic control at: 18:48
+Departure queue full. Flight Departure: UA706 departure delayed due air traffic control at: 18:50
+Flight Departure: UA661 departed at: 18:50
+Departure queue full. Flight Departure: UA708 departure delayed due air traffic control at: 18:54
+Departure queue full. Flight Departure: UA709 departure delayed due air traffic control at: 18:56
+Departure queue full. Flight Departure: UA710 departure delayed due air traffic control at: 18:58
+Departure queue full. Flight Departure: UA711 departure delayed due air traffic control at: 19:00
+Flight Departure: UA671 departed at: 19:00
+Departure queue full. Flight Departure: UA713 departure delayed due air traffic control at: 19:04
+Departure queue full. Flight Departure: UA714 departure delayed due air traffic control at: 19:06
+Departure queue full. Flight Departure: UA715 departure delayed due air traffic control at: 19:08
+Departure queue full. Flight Departure: UA716 departure delayed due air traffic control at: 19:10
+Flight Departure: UA681 departed at: 19:10
+Departure queue full. Flight Departure: UA718 departure delayed due air traffic control at: 19:14
+Departure queue full. Flight Departure: UA719 departure delayed due air traffic control at: 19:16
+Departure queue full. Flight Departure: UA720 departure delayed due air traffic control at: 19:18
+Departure queue full. Flight Departure: UA721 departure delayed due air traffic control at: 19:20
+Flight Departure: UA691 departed at: 19:20
+Departure queue full. Flight Departure: UA723 departure delayed due air traffic control at: 19:24
+Departure queue full. Flight Departure: UA724 departure delayed due air traffic control at: 19:26
+Departure queue full. Flight Departure: UA725 departure delayed due air traffic control at: 19:28
+Departure queue full. Flight Departure: UA726 departure delayed due air traffic control at: 19:30
+Flight Departure: UA701 departed at: 19:30
+Departure queue full. Flight Departure: UA728 departure delayed due air traffic control at: 19:34
+Departure queue full. Flight Departure: UA729 departure delayed due air traffic control at: 19:36
+Departure queue full. Flight Departure: UA730 departure delayed due air traffic control at: 19:38
+Departure queue full. Flight Departure: UA731 departure delayed due air traffic control at: 19:40
+Flight Departure: UA707 departed at: 19:40
+Departure queue full. Flight Departure: UA733 departure delayed due air traffic control at: 19:44
+Departure queue full. Flight Departure: UA734 departure delayed due air traffic control at: 19:46
+Departure queue full. Flight Departure: UA735 departure delayed due air traffic control at: 19:48
+Departure queue full. Flight Departure: UA736 departure delayed due air traffic control at: 19:50
+Flight Departure: UA712 departed at: 19:50
+Departure queue full. Flight Departure: UA738 departure delayed due air traffic control at: 19:54
+Departure queue full. Flight Departure: UA739 departure delayed due air traffic control at: 19:56
+Departure queue full. Flight Departure: UA740 departure delayed due air traffic control at: 19:58
+Departure queue full. Flight Departure: UA741 departure delayed due air traffic control at: 20:00
+Flight Departure: UA717 departed at: 20:00
+Departure queue full. Flight Departure: UA743 departure delayed due air traffic control at: 20:04
+Departure queue full. Flight Departure: UA744 departure delayed due air traffic control at: 20:06
+Departure queue full. Flight Departure: UA745 departure delayed due air traffic control at: 20:08
+Departure queue full. Flight Departure: UA746 departure delayed due air traffic control at: 20:10
+Flight Departure: UA722 departed at: 20:10
+Departure queue full. Flight Departure: UA748 departure delayed due air traffic control at: 20:14
+Departure queue full. Flight Departure: UA749 departure delayed due air traffic control at: 20:16
+Departure queue full. Flight Departure: UA750 departure delayed due air traffic control at: 20:18
+Departure queue full. Flight Departure: UA751 departure delayed due air traffic control at: 20:20
+Flight Departure: UA727 departed at: 20:20
+Departure queue full. Flight Departure: UA753 departure delayed due air traffic control at: 20:24
+Departure queue full. Flight Departure: UA754 departure delayed due air traffic control at: 20:26
+Departure queue full. Flight Departure: UA755 departure delayed due air traffic control at: 20:28
+Departure queue full. Flight Departure: UA756 departure delayed due air traffic control at: 20:30
+Flight Departure: UA732 departed at: 20:30
+Departure queue full. Flight Departure: UA758 departure delayed due air traffic control at: 20:34
+Departure queue full. Flight Departure: UA759 departure delayed due air traffic control at: 20:36
+Departure queue full. Flight Departure: UA760 departure delayed due air traffic control at: 20:38
+Departure queue full. Flight Departure: UA761 departure delayed due air traffic control at: 20:40
+Flight Departure: UA737 departed at: 20:40
+Departure queue full. Flight Departure: UA763 departure delayed due air traffic control at: 20:44
+Departure queue full. Flight Departure: UA764 departure delayed due air traffic control at: 20:46
+Departure queue full. Flight Departure: UA765 departure delayed due air traffic control at: 20:48
+Departure queue full. Flight Departure: UA766 departure delayed due air traffic control at: 20:50
+Flight Departure: UA742 departed at: 20:50
+Departure queue full. Flight Departure: UA768 departure delayed due air traffic control at: 20:54
+Departure queue full. Flight Departure: UA769 departure delayed due air traffic control at: 20:56
+Departure queue full. Flight Departure: UA770 departure delayed due air traffic control at: 20:58
+Departure queue full. Flight Departure: UA771 departure delayed due air traffic control at: 21:00
+Flight Departure: UA747 departed at: 21:00
+Departure queue full. Flight Departure: UA773 departure delayed due air traffic control at: 21:04
+Departure queue full. Flight Departure: UA774 departure delayed due air traffic control at: 21:06
+Departure queue full. Flight Departure: UA775 departure delayed due air traffic control at: 21:08
+Departure queue full. Flight Departure: UA776 departure delayed due air traffic control at: 21:10
+Flight Departure: UA752 departed at: 21:10
+Departure queue full. Flight Departure: UA778 departure delayed due air traffic control at: 21:14
+Departure queue full. Flight Departure: UA779 departure delayed due air traffic control at: 21:16
+Departure queue full. Flight Departure: UA780 departure delayed due air traffic control at: 21:18
+Departure queue full. Flight Departure: UA781 departure delayed due air traffic control at: 21:20
+Flight Departure: UA757 departed at: 21:20
+Departure queue full. Flight Departure: UA783 departure delayed due air traffic control at: 21:24
+Departure queue full. Flight Departure: UA784 departure delayed due air traffic control at: 21:26
+Departure queue full. Flight Departure: UA785 departure delayed due air traffic control at: 21:28
+Departure queue full. Flight Departure: UA786 departure delayed due air traffic control at: 21:30
+Flight Departure: UA762 departed at: 21:30
+Departure queue full. Flight Departure: UA788 departure delayed due air traffic control at: 21:34
+Departure queue full. Flight Departure: UA789 departure delayed due air traffic control at: 21:36
+Departure queue full. Flight Departure: UA790 departure delayed due air traffic control at: 21:38
+Departure queue full. Flight Departure: UA791 departure delayed due air traffic control at: 21:40
+Flight Departure: UA767 departed at: 21:40
+Departure queue full. Flight Departure: UA793 departure delayed due air traffic control at: 21:44
+Departure queue full. Flight Departure: UA794 departure delayed due air traffic control at: 21:46
+Departure queue full. Flight Departure: UA795 departure delayed due air traffic control at: 21:48
+Departure queue full. Flight Departure: UA796 departure delayed due air traffic control at: 21:50
+Flight Departure: UA772 departed at: 21:50
+Departure queue full. Flight Departure: UA798 departure delayed due air traffic control at: 21:54
+Departure queue full. Flight Departure: UA799 departure delayed due air traffic control at: 21:56
+Departure queue full. Flight Departure: UA800 departure delayed due air traffic control at: 21:58
+Departure queue full. Flight Departure: UA801 departure delayed due air traffic control at: 22:00
+Flight Departure: UA777 departed at: 22:00
+Departure queue full. Flight Departure: UA803 departure delayed due air traffic control at: 22:04
+Departure queue full. Flight Departure: UA804 departure delayed due air traffic control at: 22:06
+Departure queue full. Flight Departure: UA805 departure delayed due air traffic control at: 22:08
+Departure queue full. Flight Departure: UA806 departure delayed due air traffic control at: 22:10
+Flight Departure: UA782 departed at: 22:10
+Departure queue full. Flight Departure: UA808 departure delayed due air traffic control at: 22:14
+Departure queue full. Flight Departure: UA809 departure delayed due air traffic control at: 22:16
+Departure queue full. Flight Departure: UA810 departure delayed due air traffic control at: 22:18
+Departure queue full. Flight Departure: UA811 departure delayed due air traffic control at: 22:20
+Flight Departure: UA787 departed at: 22:20
+Departure queue full. Flight Departure: UA813 departure delayed due air traffic control at: 22:24
+Departure queue full. Flight Departure: UA814 departure delayed due air traffic control at: 22:26
+Departure queue full. Flight Departure: UA815 departure delayed due air traffic control at: 22:28
+Departure queue full. Flight Departure: UA816 departure delayed due air traffic control at: 22:30
+Flight Departure: UA792 departed at: 22:30
+Departure queue full. Flight Departure: UA818 departure delayed due air traffic control at: 22:34
+Departure queue full. Flight Departure: UA819 departure delayed due air traffic control at: 22:36
+Departure queue full. Flight Departure: UA820 departure delayed due air traffic control at: 22:38
+Departure queue full. Flight Departure: UA821 departure delayed due air traffic control at: 22:40
+Flight Departure: UA797 departed at: 22:40
+Departure queue full. Flight Departure: UA823 departure delayed due air traffic control at: 22:44
+Departure queue full. Flight Departure: UA824 departure delayed due air traffic control at: 22:46
+Departure queue full. Flight Departure: UA825 departure delayed due air traffic control at: 22:48
+Departure queue full. Flight Departure: UA826 departure delayed due air traffic control at: 22:50
+Flight Departure: UA802 departed at: 22:50
+Departure queue full. Flight Departure: UA828 departure delayed due air traffic control at: 22:54
+Departure queue full. Flight Departure: UA829 departure delayed due air traffic control at: 22:56
+Departure queue full. Flight Departure: UA830 departure delayed due air traffic control at: 22:58
+Departure queue full. Flight Departure: UA831 departure delayed due air traffic control at: 23:00
+Flight Departure: UA807 departed at: 23:00
+Departure queue full. Flight Departure: UA833 departure delayed due air traffic control at: 23:04
+Departure queue full. Flight Departure: UA834 departure delayed due air traffic control at: 23:06
+Departure queue full. Flight Departure: UA835 departure delayed due air traffic control at: 23:08
+Departure queue full. Flight Departure: UA836 departure delayed due air traffic control at: 23:10
+Flight Departure: UA812 departed at: 23:10
+Departure queue full. Flight Departure: UA838 departure delayed due air traffic control at: 23:14
+Departure queue full. Flight Departure: UA839 departure delayed due air traffic control at: 23:16
+Departure queue full. Flight Departure: UA840 departure delayed due air traffic control at: 23:18
+Departure queue full. Flight Departure: UA841 departure delayed due air traffic control at: 23:20
+Flight Departure: UA817 departed at: 23:20
+Departure queue full. Flight Departure: UA843 departure delayed due air traffic control at: 23:24
+Departure queue full. Flight Departure: UA844 departure delayed due air traffic control at: 23:26
+Departure queue full. Flight Departure: UA845 departure delayed due air traffic control at: 23:28
+Departure queue full. Flight Departure: UA846 departure delayed due air traffic control at: 23:30
+Flight Departure: UA822 departed at: 23:30
+Departure queue full. Flight Departure: UA848 departure delayed due air traffic control at: 23:34
+Departure queue full. Flight Departure: UA849 departure delayed due air traffic control at: 23:36
+Departure queue full. Flight Departure: UA850 departure delayed due air traffic control at: 23:38
+Departure queue full. Flight Departure: UA851 departure delayed due air traffic control at: 23:40
+Flight Departure: UA827 departed at: 23:40
+Departure queue full. Flight Departure: UA853 departure delayed due air traffic control at: 23:44
+Departure queue full. Flight Departure: UA854 departure delayed due air traffic control at: 23:46
+Departure queue full. Flight Departure: UA855 departure delayed due air traffic control at: 23:48
+Departure queue full. Flight Departure: UA856 departure delayed due air traffic control at: 23:50
+Flight Departure: UA832 departed at: 23:50
+Departure queue full. Flight Departure: UA858 departure delayed due air traffic control at: 23:54
+Departure queue full. Flight Departure: UA859 departure delayed due air traffic control at: 23:56
+Departure queue full. Flight Departure: UA860 departure delayed due air traffic control at: 23:58
+Departure queue full. Flight Departure: UA861 departure delayed due air traffic control at: 24:00
+Flight Departure: UA837 departed at: 24:00
+
+*********************************************************
+Automated Air Traffic Control Simulator Summary Statistics
+**********************************************************
+
+Time period Simulated: 24:00 hours
+Number of arrivals: 0
+Number of departures: 144
+Total number of flights operated: 144
+Average can't be calculated, since number of arrivals are zero. 
+Average number of departures per hour: 6.00
+Arrivals remaining in the queue: 0
+Departures remaining in the queue: 4
+Number of diverted arrivals: 0
+Number of diverted departures: 713
+Percent time idle runaway: 50%
+Average arrival time in queue: 0 minutes
+Average departure time in queue: 47 minutes
