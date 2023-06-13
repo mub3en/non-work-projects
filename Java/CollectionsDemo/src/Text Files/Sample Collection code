@@ -1,0 +1,264 @@
+////import java.util.ArrayList;
+////import java.util.Arrays;
+////import java.util.Collection;
+////import java.util.List;
+//////import java.util.HashSet;
+//////import java.util.Iterator;
+//////import java.util.function.Consumer;
+//////import java.util.function.Predicate;
+//////import java.util.stream.Collector;
+////import java.util.stream.Collectors;
+//
+//public class Application {
+//	
+////	public static void print(List<Guest> list) {
+////
+////		System.out.format("%n--List Contents--%n");
+////
+////		for (int x = 0; x < list.size(); x++) {
+////			Guest guest = list.get(x);
+////			System.out.format("%x: %s %n", x, guest.toString());
+////		}
+////		
+////	}
+//
+//	public static void main(String[] args) {
+//		// TODO Auto-generated method stub
+
+
+
+		////Use of Comparator////
+		
+		Room piccadilly = new Room("Piccadilly", "Guest Room", 3, 125.00);
+		Room cambridge = new Room("Cambridge", "Premiere Room", 4, 175.00);
+		Room oxford = new Room("Oxford", "Suite", 5, 225.0);
+		Room oxford1 = new Room("Oxford", "Guest Room", 5, 225.0);
+		Room victoria = new Room("Victoria", "Suite", 5, 225.0);
+		
+		
+		List<Room> rooms = new ArrayList<>(List.of(piccadilly, oxford1, cambridge, victoria, oxford));
+		rooms.sort(Room.RATE_COMPARATOR);
+		
+		Room newLondon = new Room("New London", "Suite", 5, 225.0);
+		int result = Collections.binarySearch(rooms, newLondon, Room.RATE_COMPARATOR);
+		rooms.add(Math.abs(++result), newLondon);
+		System.out.println("Result: " + result);
+		
+		System.out.println("Min: " + Collections.min(rooms, Room.RATE_COMPARATOR).getName());
+		System.out.println("Max: " + Collections.max(rooms, Room.RATE_COMPARATOR).getName());
+		
+		
+		
+		System.out.format("%n%n--List Contents--%n");
+		rooms.stream()
+			.forEach(r -> System.out.format("%-15s %-15s %-10f %n", r.getName(), r.getType(), r.getRate()));
+		
+		
+		
+//		Guest john = new Guest("John", "Doe", false);
+//		Guest maria = new Guest("Maria", "Doe", true);
+//		
+//		Room cambridge = new Room("Cambridge", "Premiere Room", 4, 175.00);
+//		Room manchester = new Room("Manchester", "Suite", 5, 250.00);
+//		
+//		Map<Room, Guest> assignments = new HashMap<>();
+//		
+//		assignments.put(cambridge, john);
+//		assignments.put(manchester, maria);
+//		
+//		
+////		Set<Entry<Room, Guest>> cv = assignments.entrySet();
+//		
+////		System.out.println(cv);
+//		
+//		for (Entry<Room, Guest> entry : assignments.entrySet()) {
+//			Room r = entry.getKey();
+//			Guest g = entry.getValue();
+//			
+//			System.out.format("%s : %s%n", r.getName(), g.getFirstName()+" " +g.getLastName());
+//		}
+//		
+
+		
+//		System.out.println("Manchester: " +assignments.get(manchester));
+//		System.out.println("Cambridge: " + assignments.get(new Room("Cambridge", "Premiere Room", 4, 175.00)));
+//		
+//		System.out.println("After Switching");
+//		
+//		Guest guest = assignments.put(manchester,assignments.remove(cambridge) );
+//		assignments.put(cambridge, guest);
+//		System.out.println("The guest value is:    "+ guest);
+//		
+//		
+//		System.out.println("Manchester: " +assignments.get(manchester));
+//		System.out.println("Cambridge: " + assignments.get(new Room("Cambridge", "Premiere Room", 4, 175.00)));
+//		
+//		System.out.println("After Deleting");
+//		System.out.println(assignments.remove(manchester));
+//		
+//		System.out.println(assignments.remove(cambridge));
+
+
+
+
+
+
+
+
+//		
+////		Room cambridge = new Room("Cambridge", "Premiere Room", 4, 175.00);
+//		
+//		
+//		
+////		
+////		Guest john = new Guest("John", "Doe", false);
+////		Guest maria = new Guest("Maria", "Doe", true);
+////		Guest sonia = new Guest("Sonia", "Doe", true);
+////		Guest siri = new Guest("Siri", "Doe", true);
+////		Guest bob = new Guest("Bob", "Doe", false);
+////		
+////		
+////		List<Guest> guests = new ArrayList<>();
+////		guests.add(john);
+////		print(guests);
+//////		System.out.println(guests);
+////		guests.add(0, maria);
+////		print(guests);
+//////		System.out.println(guests);
+////		
+////		guests.addAll(1, List.of(sonia, siri));
+////		print(guests);
+////		
+////		guests.add(bob);
+////		print(guests);
+////		
+////		guests.remove(3);
+////		print(guests);
+//		
+////		guests.stream()
+////			.map(Guest::getFirstName)
+////			.forEach(System.out::println);
+////		
+//		
+//		
+//		///////////////////////////
+//		//////////////////////////
+//		///Iterator examples//////
+//		///////////////////////////
+////		Room cambridge = new Room("Cambridge", "Premiere Room", 4, 175.00);
+////		Room manchester = new Room("Manchester", "Suite", 5, 250.00);
+////		Room piccadilly = new Room("Piccadilly", "Guest Room", 3, 125.00);
+////		Room oxford = new Room("Oxford", "Suite", 5, 225.0);
+////		Room victoria = new Room("Victoria", "Suite", 5, 225.00);
+////		Room westminister = new Room("Westminister", "Premiere Room", 4, 200.00);
+////		
+////		Collection<Room> rooms = new ArrayList<>(Arrays.asList(cambridge,manchester, piccadilly, oxford, victoria, westminister));
+////		
+////		oxford.setPetFriendly(true);
+////		victoria.setPetFriendly(true);
+//		
+//		
+////		Collection<Room> petFriendlyRooms = new ArrayList<>();
+////		rooms.stream()
+////		.filter(Room::isPetFriendly)
+////		.forEach(room -> petFriendlyRooms.add(room) );
+//		
+////		petFriendlyRooms.stream()
+////		.filter(Room::isPetFriendly)
+////		.forEach(room -> System.out.println(room.getName()));
+//		/////OR/////
+//		
+////		Collection<Room> petFriendlyRooms = rooms.stream()
+////		.filter(Room::isPetFriendly)
+////		.collect(Collectors.toList());
+////		
+////		
+////		petFriendlyRooms.stream()
+////		.map(m -> m.getName())
+////		.forEach(System.out::println);
+////		
+////		double total = petFriendlyRooms.stream()
+////			.mapToDouble(Room::getRate)
+////			.sum();
+////		
+////		System.out.println(total);
+//		
+//		// Use of Stream
+//		
+////		rooms.stream()
+////		.filter(room -> !room.isPetFriendly())
+////		.forEach(room -> System.out.println(room.getName()));
+//		
+//		////OR///
+////		rooms.stream()
+////		.filter(Room::isPetFriendly)
+////		.forEach(room -> System.out.println(room.getName()));
+//		
+//		
+//		
+//		////Long & Thorough way///
+////		rooms.stream()
+////			.filter(new Predicate<Room>() {
+////
+////				@Override
+////				public boolean test(Room room) {
+////					// TODO Auto-generated method stub
+////					return !room.isPetFriendly();
+////				}
+////			}).forEach(new Consumer<Room>() {
+////
+////				@Override
+////				public void accept(Room room) {
+////					System.out.println(room.getName());
+////					
+////				}
+////				
+////			});
+//		
+//		
+//		
+//		
+//		//// MODIFICATION THOUGH FOREACH AND ITERATOR
+//		////Modifying collections through Iterators or non-iterators
+////		Iterator<Room> i = rooms.iterator();
+////		while (i.hasNext()) {
+////			Room room = i.next();
+////			if(room.isPetFriendly()) {
+////				i.remove();
+////			}
+////		}
+//		
+//		
+////		//You cannot modify collection using foreach loop.
+////		Collection<Room> copy = new ArrayList<>();
+////		for (Room room : rooms) {
+////			if(room.isPetFriendly()) {
+////				copy.add(room);
+////			}
+////		}
+////		
+////		rooms.removeAll(copy);
+////		
+////		for (Room room : rooms) {
+////			System.out.println(room.getName());
+////		}
+//		
+//		
+//		
+//		///SIMPLE Iteration
+//		//First method
+////		Iterator<Room> i = rooms.iterator();
+////		while (i.hasNext()) {
+////			System.out.println(i.next().getName());
+////			
+////		}
+//		
+//		//Second Method
+////		for (Room room : rooms) {
+////			System.out.println(room.getName());
+////		}
+//		
+//
+//	}
+//
+//}
